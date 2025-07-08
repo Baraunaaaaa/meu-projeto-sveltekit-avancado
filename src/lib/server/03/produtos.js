@@ -1,0 +1,20 @@
+export const produtos = [
+    { id: 1, titulo: 'Notebook Gamer X1', descricao: 'Notebook potente com placa de vídeo dedicada e tela 144Hz.', preco: 4999.90, categorias: ['informática', 'entretenimento', 'games'] },
+    { id: 4, titulo: 'Fone de Ouvido Bluetooth', descricao: 'Fone com cancelamento de ruído e autonomia de 30 horas.', preco: 299.90, categorias: ['áudio', 'acessórios', 'entretenimento'] },
+    { id: 5, titulo: 'TV 55" 4K UHD', descricao: 'Smart TV com controle por voz e suporte a HDR10.', preco: 2799.99, categorias:  ['televisores', 'entretenimento'] },
+    { id: 6, titulo: 'Teclado Mecânico RGB', descricao: 'Teclado com switches azuis e iluminação colorida.', preco: 349.00, categorias: ['informática', 'games'] },
+    { id: 7, titulo: 'Caixa de Som Portátil', descricao: 'Caixa com som estéreo potente e resistência à água.', preco: 199.90, categorias: ['áudio', 'acessórios', 'entretenimento'] },
+    { id: 8, titulo: 'Tablet Z10', descricao: 'Tablet de 10 polegadas com tela Full HD e 64GB de armazenamento.', preco: 1299.00, categorias: ['mobile', 'informática'] },
+    { id: 9, titulo: 'Câmera de Segurança Wi-Fi', descricao: 'Câmera com visão noturna e detecção de movimento.', preco: 249.90, categorias: ['segurança', 'casa inteligente'] },
+    { id: 10, titulo: 'Smartwatch FitPro', descricao: 'Relógio inteligente com monitor cardíaco e notificações.', preco: 399.00, categorias: ['wearables', 'acessórios'] },
+    { id: 11, titulo: 'Monitor 27" Curvo', descricao: 'Monitor com resolução QHD e taxa de atualização de 165Hz.', preco: 1599.00, categorias: ['informática', 'games'] },
+    { id: 12, titulo: 'Console GameBox 5', descricao: 'Videogame de última geração com 1TB de armazenamento.', preco: 3999.00, categorias: ['games', 'entretenimento'] },
+    { id: 13, titulo: 'Impressora Multifuncional Wi-Fi', descricao: 'Impressora, scanner e copiadora com conexão sem fio.', preco: 499.00, categorias: ['informática', 'escritório'] },
+    { id: 14, titulo: 'HD Externo 2TB', descricao: 'Armazenamento portátil e resistente a quedas.', preco: 349.90, categorias: ['informática', 'acessórios'] },
+    { id: 15, titulo: 'Drone FlyCam 4K', descricao: 'Drone com câmera 4K e autonomia de 25 minutos.', preco: 1899.00, categorias: ['drones', 'fotografia'] },
+    { id: 16, titulo: 'Luminária LED Inteligente', descricao: 'Controle via aplicativo, com ajuste de intensidade e cor.', preco: 159.90, categorias: ['casa inteligente', 'iluminação'] },
+    { id: 17, titulo: 'Repetidor de Sinal Wi-Fi', descricao: 'Aumenta o alcance da sua rede sem fio.', preco: 119.90, categorias: ['informática', 'redes'] },
+    { id: 18, titulo: 'Aspirador Robô Smart', descricao: 'Limpa automaticamente e retorna para a base ao recarregar.', preco: 1299.00, categorias: ['casa inteligente', 'eletrodomésticos'] },
+    { id: 19, titulo: 'Webcam Full HD', descricao: 'Ideal para videoconferências e streaming.', preco: 179.90, categorias: ['informática', 'acessórios'] },
+    { id: 20, titulo: 'Kindle Paperwhite', descricao: 'Leitor digital com iluminação embutida e tela antirreflexo.', preco: 649.00, categorias: ['leitura', 'mobile', 'entretenimento'] }
+  ];

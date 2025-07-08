@@ -1,0 +1,1 @@
+<h1>Bem vindo a página dos magos</h1>
